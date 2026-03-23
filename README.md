@@ -9,3 +9,5 @@ servers you should check out!
 sme mc: wss://sme-mc.us/e
 
 krypticnet: wss://krypticmc.net
+
+tuffnet: wss://tuff.ws
